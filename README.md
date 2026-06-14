@@ -3,5 +3,7 @@ https://project1-sepia-phi.vercel.app/
 
 Technologies Used
 HTML5 – Structure of the gallery.
+
 CSS3 – Styling, responsive design, and animations.
+
 JavaScript – Image navigation, lightbox functionality, and interactive features.
